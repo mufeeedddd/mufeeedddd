@@ -14,12 +14,15 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 📊 GitHub Stats
-![Mufeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufeeedddd&show_icons=true&theme=radical)
+![Mufeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufeeedddd&show_icons=true&theme=radical&hide_border=false)
+
+---
 
 ### 🌐 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/mufeed-th-b637913ab)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/mufeeedddd)
-
+<p align="left">
+<a href="www.linkedin.com/in/mufeed-th-b637913ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mufeeedddd" height="30" width="40" /></a>
+<a href="https://x.com/mufeeedddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mufeeedddd" height="30" width="40" /></a>
+</p>
 <!--
 **mufeeedddd/mufeeedddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
