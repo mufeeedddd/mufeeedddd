@@ -2,9 +2,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on building my portfolio.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently learning Full Stack Develepment.
 - 💬 Ask me about: Web Development or my latest projects!
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [thmufeed11@gmail.com]
 
 ### 💻 My Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
