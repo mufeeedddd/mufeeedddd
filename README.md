@@ -1,6 +1,6 @@
-# Mufeed | Data Analyst & ML Enthusiast 👋
+# Mufeed | Data Analyst (ML + Visualization) 👋
 
-I build predictive models and dashboards that turn raw data into decisions.
+I build predictive models and dashboards that turn raw data into actionable insights.  
 MSc Statistics with Data Science | Python · SQL · Power BI · scikit-learn
 
 ---
@@ -8,22 +8,28 @@ MSc Statistics with Data Science | Python · SQL · Power BI · scikit-learn
 ## 🚀 Featured Projects
 
 ### 📈 Stock Price Forecasting System
-End-to-end ML pipeline built on 600K+ records of S&P 500 data.
-Achieved R² ~0.98 using regression techniques with full Power BI dashboard integration.
-`Python` `scikit-learn` `Power BI` `SQL`
+Built an end-to-end ML pipeline on 600K+ S&P 500 records.  
+Achieved high accuracy (R² ~0.98) and integrated results into a Power BI dashboard.  
+`Python` `Power BI`
+
+---
 
 ### 🎬 Cinema Analytics — IMDb Top 1000
-Explored whether higher ratings actually drive box office revenue (spoiler: not always).
-Analyzed director dominance, genre trends, and decade-wise audience shifts.
+Analyzed the relationship between ratings and revenue — found that higher ratings don’t always lead to higher box office performance.  
+Explored director dominance, genre trends, and audience shifts over time.  
 `Power BI`
 
+---
+
 ### 📊 HR Attrition Analysis
-Analyzed 15,000 employee records to identify early attrition signals.
-Found satisfaction as the strongest predictor — built segmentation dashboard with Python/R integration.
-`Power BI` `Python` `R`
+Analyzed 15,000 employee records to identify early attrition signals.  
+Found satisfaction as the strongest predictor and built a segmentation dashboard.  
+`Power BI` `Python`
+
+---
 
 ### 🚗 Uber Operations Dashboard
-Identified revenue concentration patterns and trip efficiency gaps across cities.
+Analyzed trip and revenue data to uncover concentration patterns and efficiency gaps across cities.  
 `Power BI`
 
 ---
