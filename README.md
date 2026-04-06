@@ -1,22 +1,42 @@
-# Hi, I'm Mufeed! 👋
+# Mufeed | Data Analyst & ML Enthusiast 👋
 
-### 🤖 Machine Learning & AI
-- 🔭 I’m currently working on: Building predictive models and data analysis projects.
-- 🌱 I’m currently learning: Deep Learning, Natural Resonance, and Computer Vision.
-- 📊 Tech Stack: Python, Scikit-Learn, TensorFlow, and Pandas.
-- 📫 How to reach me:thmufeed11@gmail.com
+I build predictive models and dashboards that turn raw data into decisions.
+MSc Statistics with Data Science | Python · SQL · Power BI · scikit-learn
 
-### 🛠️ My ML Toolbox
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+---
 
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mufeeedddd&show_icons=true&theme=tokyonight" alt="Mufeed Stats" />
-</p>
+## 🚀 Featured Projects
+
+### 📈 Stock Price Forecasting System
+End-to-end ML pipeline built on 600K+ records of S&P 500 data.
+Achieved R² ~0.98 using regression techniques with full Power BI dashboard integration.
+`Python` `scikit-learn` `Power BI` `SQL`
+
+### 🎬 Cinema Analytics — IMDb Top 1000
+Explored whether higher ratings actually drive box office revenue (spoiler: not always).
+Analyzed director dominance, genre trends, and decade-wise audience shifts.
+`Power BI`
+
+### 📊 HR Attrition Analysis
+Analyzed 15,000 employee records to identify early attrition signals.
+Found satisfaction as the strongest predictor — built segmentation dashboard with Python/R integration.
+`Power BI` `Python` `R`
+
+### 🚗 Uber Operations Dashboard
+Identified revenue concentration patterns and trip efficiency gaps across cities.
+`Power BI`
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
 
 ### 🌐 Connect with me:
 <p align="left">
